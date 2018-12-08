@@ -1,0 +1,14 @@
+.main {
+  background-color: #b4d1af;
+  text-align: center;
+  padding: 25px 20px;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  margin: 0 auto;
+}
+img {
+  max-width: 80%;
+  height: auto;
+}
